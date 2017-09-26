@@ -1,4 +1,8 @@
 
 print("Hello world");
 print ("Hello everythink");
+<<<<<<< HEAD
+print ("Hello ficture");
+======
 print("Hello master");
+>>>>>>> ficture/goodbuy
