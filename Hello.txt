@@ -1,3 +1,4 @@
 
 print("Hello world");
 print ("Hello everythink");
+print("Hello master");
